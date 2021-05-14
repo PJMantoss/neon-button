@@ -16,3 +16,8 @@ body {
     font-family: "Balsamiq Sans", cursive;
     font-size: 10rem;
 }
+
+.neon-button{
+    display: inline-block;
+    
+}

@@ -14,4 +14,5 @@ body {
     background: var(--bg-color);
     color: var(--neon-color);
     font-family: "Balsamiq Sans", cursive;
+    font-size: 10rem;
 }

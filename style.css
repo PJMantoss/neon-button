@@ -24,4 +24,9 @@ body {
     text-decoration: none;
     color: var(--neon-color);
     border: var(--neon-color) 0.125em solid;
+    border-radius: 0.25em;
+    -webkit-border-radius: 0.25em;
+    -moz-border-radius: 0.25em;
+    -ms-border-radius: 0.25em;
+    -o-border-radius: 0.25em;
 }

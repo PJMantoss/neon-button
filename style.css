@@ -13,4 +13,5 @@ body {
     place-items: center;
     background: var(--bg-color);
     color: var(--neon-color);
+    font-family: "Balsamiq Sans", cursive;
 }

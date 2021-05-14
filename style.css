@@ -20,5 +20,7 @@ body {
 .neon-button{
     display: inline-block;
     position: relative;
+    font-size: 4rem;
+    text-decoration: none;
     
 }

@@ -22,5 +22,6 @@ body {
     position: relative;
     font-size: 4rem;
     text-decoration: none;
-    
+    color: var(--neon-color);
+    border: var(--neon-color) 0.125em solid;
 }

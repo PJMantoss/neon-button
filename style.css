@@ -29,4 +29,5 @@ body {
     -moz-border-radius: 0.25em;
     -ms-border-radius: 0.25em;
     -o-border-radius: 0.25em;
+    padding: 0.25em 1em;
 }

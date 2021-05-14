@@ -3,6 +3,6 @@
     --bg-color: hsl(323 21% 16%);
 }
 
-* {
+*,*::before, *::after {
     box-sizing: border-box;
 }

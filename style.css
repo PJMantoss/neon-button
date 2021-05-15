@@ -56,5 +56,5 @@ body {
 
 .neon-button::after{
     content: "";
-    
+    position: absolute;
 }

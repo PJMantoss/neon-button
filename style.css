@@ -47,4 +47,6 @@ body {
     transform: perspective(1em) rotateX(40deg) scale(1, 0.35);
     -webkit-transform: perspective(1em) rotateX(40deg) scale(1, 0.35);
     -moz-transform: perspective(1em) rotateX(40deg) scale(1, 0.35);
+    -ms-transform: perspective(1em) rotateX(40deg) scale(1, 0.35);
+    -o-transform: perspective(1em) rotateX(40deg) scale(1, 0.35);
 }

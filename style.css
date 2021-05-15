@@ -38,4 +38,5 @@ body {
 .neon-button::before{
     pointer-events: none;
     content: "";
+    position: absolute;
 }

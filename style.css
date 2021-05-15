@@ -73,4 +73,6 @@ body {
 }
 
 
-.neon-button:hover, .neon-button:focus{}
+.neon-button:hover, .neon-button:focus{
+    color: var(--bg-color);
+}

@@ -30,4 +30,5 @@ body {
     -ms-border-radius: 0.25em;
     -o-border-radius: 0.25em;
     padding: 0.25em 1em;
+    text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3), 0 0 0.45em currentColor;
 }

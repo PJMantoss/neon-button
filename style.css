@@ -39,4 +39,5 @@ body {
     pointer-events: none;
     content: "";
     position: absolute;
+    background: var(--neon-color);
 }

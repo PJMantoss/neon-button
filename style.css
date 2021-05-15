@@ -77,3 +77,7 @@ body {
     color: var(--bg-color);
     text-shadow: none;
 }
+
+.neon-button:hover::before, .neon-button:focus::before{
+    
+}

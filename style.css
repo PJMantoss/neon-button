@@ -62,4 +62,6 @@ body {
     left: 0;
     right: 0;
     box-shadow: 0 0 2em 0.5em var(--neon-color);
+    opacity: 0;
+    background: var(--neon-color);
 }

@@ -40,4 +40,6 @@ body {
     content: "";
     position: absolute;
     background: var(--neon-color);
+    top: 120%;
+    left: 0;
 }

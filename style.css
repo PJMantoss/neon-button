@@ -71,3 +71,6 @@ body {
     -ms-transition: opacity 100ms linear;
     -o-transition: opacity 100ms linear;
 }
+
+
+.neon-button:hover, .neon-button:focus{}

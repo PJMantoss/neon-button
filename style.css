@@ -67,4 +67,6 @@ body {
     z-index: -1;
     transition: opacity 100ms linear;
     -webkit-transition: opacity 100ms linear;
+    -moz-transition: opacity 100ms linear;
+    -ms-transition: opacity 100ms linear;
 }
